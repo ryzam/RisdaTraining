@@ -251,3 +251,4 @@ C:\Users\irwanazam\Documents\NetCoreTraining\RisdaTraining\WebApiMVC\TodoApi\bin
 C:\Users\irwanazam\Documents\NetCoreTraining\RisdaTraining\WebApiMVC\TodoApi\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\irwanazam\Documents\NetCoreTraining\RisdaTraining\WebApiMVC\TodoApi\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\irwanazam\Documents\NetCoreTraining\RisdaTraining\WebApiMVC\TodoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\irwanazam\Documents\NetCoreTraining\RisdaTraining\WebApiMVC\TodoApi\obj\Debug\net8.0\TodoApi.sourcelink.json
