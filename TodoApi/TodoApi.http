@@ -31,3 +31,16 @@ Content-Type: application/json
 
 ###
 DELETE  {{TodoApi_HostAddress}}/api/TodoItems/1
+
+###
+POST {{TodoApi_HostAddress}}/api/auth/login
+Content-Type: application/json
+
+{
+    "username":"test",
+    "password":"password"
+}
+
+###
+GET {{TodoApi_HostAddress}}/api/secure
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwianRpIjoiNmE1N2RkYjQtMDc2NS00MmU0LTk1MzEtMTg2NWE2ZTVlYjg4IiwiZXhwIjoxNzE2MDU1MjA2LCJpc3MiOiJodHRwczovL2xvY2FsaG9zdDo3Mjg5IiwiYXVkIjoiaHR0cHM6Ly9sb2NhbGhvc3Q6NzI4OSJ9.G5dJmzioOQtBq5Ai_wgQv6y6FCZGmG05tf84jvMufgs

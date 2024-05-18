@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "sTwwpMxVcT0Ruvhaq1lCkyF3YhPbz2t3/E0dDrGyIggCQ5tCrQVt7eoDt44lMBuHvqA5jWhRw8Sp9YF7ZFEM/w==",
+  "dgSpecHash": "MCSIIlsCo5azJWYfrCYogqHtmKTdcRl1T7JpngI5zyt84cG2+YigSDA2iSjW+mx8ATxemftyM7x+1wj1GaCRzA==",
   "success": true,
   "projectFilePath": "C:\\Users\\irwanazam\\Documents\\NetCoreTraining\\RisdaTraining\\WebApiMVC\\TodoApi\\TodoApi.csproj",
   "expectedPackageFiles": [
@@ -56,6 +56,7 @@
     "C:\\Users\\irwanazam\\.nuget\\packages\\humanizer.core.zh-cn\\2.14.1\\humanizer.core.zh-cn.2.14.1.nupkg.sha512",
     "C:\\Users\\irwanazam\\.nuget\\packages\\humanizer.core.zh-hans\\2.14.1\\humanizer.core.zh-hans.2.14.1.nupkg.sha512",
     "C:\\Users\\irwanazam\\.nuget\\packages\\humanizer.core.zh-hant\\2.14.1\\humanizer.core.zh-hant.2.14.1.nupkg.sha512",
+    "C:\\Users\\irwanazam\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.19\\microsoft.aspnetcore.authentication.jwtbearer.7.0.19.nupkg.sha512",
     "C:\\Users\\irwanazam\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.24\\microsoft.aspnetcore.razor.language.6.0.24.nupkg.sha512",
     "C:\\Users\\irwanazam\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "C:\\Users\\irwanazam\\.nuget\\packages\\microsoft.build\\17.8.3\\microsoft.build.17.8.3.nupkg.sha512",
